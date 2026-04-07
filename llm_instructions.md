@@ -67,4 +67,4 @@ As well as removing various stray characters. You must preserve everything else 
 
 Fix broken words caused by line breaks. If there is anything that you are not very confident about let me know, and I will dig into the original photocopies to clarify it. 
 
-Please use conventional markdown as output. 
+Please use conventional markdown as output. Use a single '#' for title

@@ -38,7 +38,7 @@ find "$SOURCE_DIR" -type f -name "*.polished.*" | while read -r input_file; do
 
     # 4. Run Pandoc
     # --standalone (or -s) produces a proper HTML file with a <head> and <body>
-    pandoc -s "$input_file" -o "$output_file"
+    pandoc "$input_file" -o "$output_file"
 
 done
 

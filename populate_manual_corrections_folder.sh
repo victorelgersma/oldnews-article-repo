@@ -3,7 +3,7 @@
 # This folder takes all the files
 # in ocr_first_pass which DO NOT
 # Exist in ocr_manual_corrections
-# and moves them to ocr_manual_corrections.
+# and copies them them to ocr_manual_corrections.
 # What it DOES NOT EVER DO
 # Is replace a file that exists in ocr_manual_corrections
 # with a file from ocr_first_pass

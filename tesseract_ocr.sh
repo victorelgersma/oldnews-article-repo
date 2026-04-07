@@ -12,7 +12,6 @@ if [ -d "$input_path" ]; then
     
     for input_file in "$input_path"/*.png; do
         # ${variable/#search/replace} anchors to the START of the string
-        # This is safer than a simple search/replace
         output_path_full="${input_file/#img/ocr_first_pass}"
         
         output_dir=$(dirname "$output_path_full")
@@ -20,6 +19,10 @@ if [ -d "$input_path" ]; then
 
         # % handles the end of the string (stripping the extension)
         output_base="${output_path_full%.png}"
+
+        # NEW: Replace all spaces with underscores in the output filename
+        # ${variable//search/replace} replaces ALL occurrences
+        output_base="${output_base// /_}"
 
         echo "Processing: $input_file -> ${output_base}.txt"
         tesseract --oem 1 --psm 4 "$input_file" "$output_base"
