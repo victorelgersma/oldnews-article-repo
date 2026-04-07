@@ -21,3 +21,7 @@ If you don't have homebrew installed, follow the instructions here: https://brew
 5. use LLM software (and `instructions.txt`) to polish the file, putting the output under `concatenanted_manual_corrections` replacing the extension .txt --> .polished.md
 6. run `generate_html.sh` to convert the cleaned markdown file under `concatenated_manual_corrections` to an html file under `html_polished`
 7. Deploy the changes with `./deploy.sh`
+
+## Notes on Pandoc Usage
+
+We do not use the `-s` flag because in the final product, the article becomes a php partial that is incorporated into a larger `layout.php` file within the wider `oldnews` site. 
