@@ -13,14 +13,29 @@ If you don't have homebrew installed, follow the instructions here: https://brew
 
 # Workflow
 
-1. use `tesseract_ocr.sh` to populate the file in `ocr_first_pass`
-2. use `populate_manual_corrections_folder.sh` to create an identical copy in the `ocr_manual_corrections` folder
-3. perform manual corrections on the file in the `ocr_manual_corrections` folder
+1. Make sure the article you want to digitize has a corresponding journal name under 'img'
+2. use `tesseract_ocr.sh` to populate the file in `ocr_first_pass`:
 
-4. use `concatenate_edited_file.sh` to produce a single file in `concatenated_manual_corrections`
-5. use LLM software (and `instructions.txt`) to polish the file, putting the output under `concatenanted_manual_corrections` replacing the extension .txt --> .polished.md
-6. run `generate_html.sh` to convert the cleaned markdown file under `concatenated_manual_corrections` to an html file under `html_polished`
-7. Deploy the changes with `./deploy.sh`
+example:
+
+```sh
+$ ./tesseract_ocr.sh img/waterford_chronicle/1846/05/review-vestiges/
+```
+
+3. use `populate_manual_corrections_folder.sh` to create an identical copy in the `ocr_manual_corrections` folder
+
+```sh
+./populate_manual_corrections_folder.sh
+```
+
+4. perform manual corrections on the file in the `ocr_manual_corrections` folder
+
+(we recommend you only do this if you find that the LLM generated stuff is unreadable. Once the correctionsare done you can then re-run steps 5-X).
+
+5. use `concatenate_edited_file.sh` to produce a single file in `concatenated_manual_corrections`
+6. use LLM software (and `instructions.txt`) to polish the file, putting the output under `concatenanted_manual_corrections` replacing the extension .txt --> .polished.md
+7. run `generate_html.sh` to convert the cleaned markdown file under `concatenated_manual_corrections` to an html file under `html_polished`
+8. Deploy the changes with `./deploy.sh`
 
 ## Notes on Pandoc Usage
 
