@@ -15,6 +15,11 @@ If you don't have homebrew installed, follow the instructions here: https://brew
 
 0. start by adding the metadata to the other repo and check that the file appears on the homepage
 1. Make sure the article you want to digitize has a corresponding journal name under 'img'
+i.e 
+
+```sh
+$ mkdir -p examiner/1840/03/election_news
+```
 2. use `tesseract_ocr.sh` to populate the file in `ocr_first_pass`:
 
 example:

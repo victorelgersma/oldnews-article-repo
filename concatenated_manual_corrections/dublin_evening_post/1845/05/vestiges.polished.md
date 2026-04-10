@@ -1,6 +1,6 @@
 # PROFESSOR NICHOL
 
-We publish the following letter readily—and, in doing so, we must take blame to ourselves for a very serious fault. We had attributed to Professor Nichol the authorship of an Atheistical volume, now in general circulation, called _Vestiges of the Natural History of Creation_. For this assertion of ours, we had what we deemed good authority, and, we may add, that in circles which take an interest in such subjects, the paternity of the book was generally attributed to this gentleman. We cannot express too much regret for a wrong thus inadvertently committed by The Post. The only, but the most decisive way in which it can be remedied is by the following letter:
+We publish the following letter readily—and, in doing so, we must take blame to ourselves for a very serious fault. We had attributed to Professor Nichol the authorship of an Atheistical volume, now in general circulation, called _Vestiges of the Natural History of Creation_. For this assertion of ours, we had what we deemed good authority, and, we may add, that in circles which take an interest in such subjects, the paternity of the book was generally attributed to this gentleman. We cannot express too much regret for a wrong thus inadvertently committed by _The Post_. The only, but the most decisive way in which it can be remedied is by the following letter:
 
 TO THE EDITOR OF THE DUBLIN EVENING POST.
 15th May, 1845.
