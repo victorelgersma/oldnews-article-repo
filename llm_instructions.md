@@ -63,12 +63,13 @@ comparisun comparison
 institoted instituted
 
 
-As well as removing various stray characters. You must preserve everything else word for word. Do change the 19th-century vocabulary, grammar, and punctuation. Do not modernize the language, do not summarize, and do not add your own commentary. 
-
-Fix broken words caused by line breaks. If there is anything that you are not very confident about let me know, and I will dig into the original photocopies to clarify it. 
+As well as removing various stray characters. You must preserve everything else word for word. Do not change the 19th-century vocabulary, grammar, and punctuation. Do not modernize the language, do not summarize, and do not add your own commentary. 
 
 Please use conventional markdown as output. Use a single '#' for title
+Also, quotes should be formatted using the normal markdown '>'
 
 When you write your "Notes on the OCR Cleanup" please title it "LLM notes on OCR cleanup"
 
 One bit of liberty you can take is to italicize book names, i.e if you come across Architecture of the Heavens, _Architecture of the Heavens_ is more likely to be accurate. 
+
+Fix broken words caused by line breaks. If there is anything that you are not very confident about let me know, and I will dig into the original photocopies to clarify it. 
