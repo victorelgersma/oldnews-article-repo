@@ -1,3 +1,7 @@
+# Old News LLM Pipeline
+
+This repo serves as the OCR pipeline powering oldnews.vjbe.net. It is free software. 
+
 # Dependencies
 
 - Bash 5
