@@ -5,8 +5,9 @@
 # to the repo hosting oldnews.vjbe.net, because these articles are the natural end product of my digital humanities pipeline. 
 
 ## Step 1: Deploy images
-deploy img oldnews-photos
+# deploy img oldnews-photos
 
 ## Step 2: Deploy polished html
 
+./generate_html.sh
 deploy html_polished oldnews-articles-only

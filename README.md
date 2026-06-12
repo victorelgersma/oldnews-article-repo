@@ -19,6 +19,7 @@ If you don't have homebrew installed, follow the instructions here: https://brew
 
 0. start by adding the metadata to the other repo and check that the file appears on the homepage
 1. Make sure the article you want to digitize has a corresponding journal name under 'img'
+
 i.e 
 
 ```sh
