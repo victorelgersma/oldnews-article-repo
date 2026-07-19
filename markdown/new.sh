@@ -18,7 +18,7 @@ touch "$SLUG/data.json"
 touch "$SLUG/main.md"
 
 # Add title to main.md
-echo "## $NAME" > "$SLUG/main.md"
+echo "# $NAME" > "$SLUG/main.md"
 
 # Collect metadata
 read -rp "Year: " YEAR
