@@ -7,6 +7,7 @@ also various shortened forms, perhaps like our own, if not even better.
 Since, however, he very much wants to know what has been discovered in this subject by the English, and since I myself fell upon this
 theory some years ago, I have sent you some of those things which
 occurred to me in order to satisfy his wishes, at any rate in part.
+
 Fractions are reduced to infinite series by division; and quantities by
 extraction of the roots, by carrying out those operations in the symbols
 just as they are commonly carried out in decimal numbers. These are
