@@ -1,5 +1,3 @@
-# ELECTION NEWS
-
 **TOWER HAMLETS.** — The Tories in the borough of the Tower Hamlets are taking measures to contest the next election of a member of Parliament. On Monday evening last, the members of a Tory Association in the district met for the purpose of signing a requisition to Mr G. Robinson to come forward as a candidate for the representation of the borough whenever a vacancy shall occur.
 
 **LEWES.** — The friends of Liberal principles will learn with satisfaction that the Hon. H. O. Trevor has consented to stand for the borough of Lewes, on the vacancy occasioned by the death of Sir Charles R. Blunt. General Trevor is brother to Lord Dacre, and is intimately connected with Sussex, living within a few miles of Lewes, to the inhabitants of which he is endeared, as well by the highest personal qualities as by the assistance he has afforded to the Liberal interest in Sussex.

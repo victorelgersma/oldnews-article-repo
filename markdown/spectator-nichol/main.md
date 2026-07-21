@@ -1,5 +1,3 @@
-# DR. NICHOL’S Architecture of the Heavens.
-
 The form of this admirable work is that of letters to a lady. Its object is to popularize the stupendous wonders that have been discovered in astronomy, (and chiefly by the elder Herschel,) during the present century; and which, enveloped in dry or extraneous matter, have hitherto remained buried amid “the varied and massive collections of our learned societies.” The subjects of the work, are—the form of the existing universe, and the firmaments of which it consists; the mechanism, or vital principle of the stellar arrangements; and the origin and probable destiny of the present form of the material creation. In accompanying Dr. Nichol through these three divisions of astronomy, the reader will have impressed upon him the infinity of space; and the eternity of time, if that can be called time which hints no idea of a beginning, no prospect of an end. He will also be made to feel the stupendous magnitude of a universe—where planetary worlds are beyond sight and beneath regard; where the nearest suns—suns like ours,
 
 > “The light and life

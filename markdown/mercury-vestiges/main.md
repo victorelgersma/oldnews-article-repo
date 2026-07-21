@@ -1,5 +1,3 @@
-# THE EDINBURGH REVIEW, AND VESTIGES OF THE NATURAL CREATION.
-
 **(BY A CONTRIBUTOR.)**
 
 In the last number of this celebrated periodical, one of the longest reviews that we ever recollect, perhaps the longest, has been given of this much-abused little book; the reviewer, on this occasion, being no less a man than the Magnus Apollo of the geologists, the Reverend Professor Sedgwick. From our own minor Reverend at the Collegiate, up to the Cambridge professor, this work seems to be especially obnoxious to the criticism of the schoolmen, nor have they let slip any opportunity that chance may have thrown in their way, of having a fling at it. Be this, however, as it may, all we shall have to do with at present, is the article in the northern periodical, nor do we merely assume Professor Sedgwick to be its writer, as we happen to know the fact, apart from the internal evidence it contains of his authorship.

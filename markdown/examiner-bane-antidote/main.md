@@ -1,5 +1,3 @@
-# The Bane and Antidote
-
 In one way or another the Tories always contrive to turn public abuses to their profit. Sometimes the abuse is extremely lucrative in itself, and then they advocate and support it lustily; sometimes the advantage of the abuse is counterbalanced, in their eyes, by the popular excellence of the system which has contracted it, and then they find it more for their interest to employ it as a screen for their attacks upon the system.
 
 On a comparison of their own interests in the abuses of the Irish system of registration with the popular interest in some of its main features, they found the balance upon the whole adverse to them, and forthwith they started up violent registry reformers. They reasoned that it would be a fine thing both to gain a character for aversion to fraudulent practices, and use those same practices as a colourable basis for a measure depriving the people of Ireland of their franchises.
