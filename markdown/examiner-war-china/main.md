@@ -1,3 +1,5 @@
+# The Preparations for War in China
+
 The Chinese seem inclined to be very accommodating enemies. Their presumption is one of our best allies. The apprehension was that they would avoid battle, and that our expedition would be unable to make any impression, having no point of resistance on which to operate in so extensive a country. But, instead of this policy, the Chinese have the infatuation of thinking to oppose our expedition with ships built for merchant service and turned, for the nonce, into men-of-war. This is merely presenting something for us to knock to pieces or to capture. It is furnishing us with the subject-matter for showing our superiority.
 
 The Chinese, notwithstanding their ignorance, have discerned and acknowledged the superiority of European ships to their clumsy junks; but they have not the skill to perceive that there is even a greater difference between a man-of-war and a merchantman than between a merchantman and a junk. How will the sages at Pekin reconcile the use of the foreign ships and barbarian armament with the maxim so lately proclaimed by the Emperor, that the foundations of the empire were archery and horsemanship?
