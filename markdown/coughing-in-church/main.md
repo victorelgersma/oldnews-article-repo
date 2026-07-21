@@ -1,3 +1,4 @@
+# Coughing in Church
 
 A northern newspaper lately contained a computation of the coughs in a congregation in Scotland during divine service, and the figures rose to thousands. Writing on the subject for the perusal of his congregation, Dr. Donald Fraser says:—
 
